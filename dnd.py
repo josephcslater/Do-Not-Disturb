@@ -12,7 +12,7 @@ import time
 from tkinter import *
 
 """
-Changed Notification Center status on Mac to "Do not disturb" for
+Change Notification Center status on Mac to "Do not disturb" for
 a) n minutes, (n>4)
 b) or n hours, (n<=4)
 c) or until n time where n is in hour:minute format using 12 hour clock.
